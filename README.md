@@ -1,4 +1,5 @@
-# Introduction to IoT and lab practice 2021-2 (한국기술교육대학교 컴퓨터공학부 IoT 개론 및 실습 2021년 2학기)
+# Introduction to IoT and lab practice 2021-2 
+## (한국기술교육대학교 컴퓨터공학부 IoT 개론 및 실습 2021년 2학기)
 Repository for example codes to learn IoT programming based on Raspberry Pi
 
 ### Raspberry Pi GPIO programming
