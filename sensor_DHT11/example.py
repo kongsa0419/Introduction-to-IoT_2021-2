@@ -8,8 +8,8 @@ gpio.setwarnings(True)
 gpio.setmode(gpio.BCM)
 gpio.cleanup()
 
-# read data using pin 20
-instance = dht11.DHT11(pin=20)
+# read data using pin 19
+instance = dht11.DHT11(pin=19)
 
 try:
     while True:
